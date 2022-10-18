@@ -9,3 +9,6 @@ Read following documents
 
 ## When you use windows
 use `python -m mkdocs` instead of `mkdocs`.
+
+# Analytics
+[Setup site analytics on Material for MkDocs theme](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/)
