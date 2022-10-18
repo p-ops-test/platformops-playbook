@@ -1,3 +1,7 @@
 site_name: Platform Ops sample
 site_url: https://p-ops-test.github.io/platformops-playbook/
 
+extra:
+  analytics:
+    provider: google
+    property: G-H5K2X70YR6
