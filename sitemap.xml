@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://p-ops-test.github.io/platformops-playbook/concepts/badconcept/</loc>
+         <lastmod>2022-10-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://p-ops-test.github.io/platformops-playbook/concepts/provision/</loc>
          <lastmod>2022-10-18</lastmod>
          <changefreq>daily</changefreq>
